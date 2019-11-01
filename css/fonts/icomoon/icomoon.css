@@ -48,7 +48,24 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
-
+.custom-icon-streamline:before {
+  content: "\e929";
+}
+.custom-icon-measure:before {
+  content: "\e92a";
+  color: #282974;
+}
+.custom-icon-adapt:before {
+  content: "\e92b";
+  color: #282974;
+}
+.custom-icon-reduce:before {
+  content: "\e92c";
+}
+.custom-icon-team:before {
+  content: "\e92d";
+  color: #282974;
+}
 .custom-icon-award:before {
   content: "\e900"; }
 
